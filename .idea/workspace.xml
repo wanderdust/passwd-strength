@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c7509ff-ad6c-4ea1-a117-d7e028f0d82f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/youtubers/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/youtubers/UserPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/youtubers/com/youtubers/Requests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/youtubers/com/youtubers/Requests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/youtubers/com/youtubers/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/youtubers/com/youtubers/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/passwords.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/youtubers/Requests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/youtubers/Requests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/youtubers/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/youtubers/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,41 +19,27 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/youtubers/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="114">
               <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Requests.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Requests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/youtubers/Requests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="100" column="68" selection-start-line="100" selection-start-column="68" selection-end-line="100" selection-end-column="68" />
+            <state relative-caret-position="475">
+              <caret line="34" column="85" selection-start-line="34" selection-start-column="85" selection-end-line="34" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2008#2018#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="result.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="result.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/result.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="passwords.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passwords.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="UserPassword.java" pinned="false" current-in-tab="false">
@@ -66,12 +47,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
               <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding>
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -79,14 +54,8 @@
       <file leaf-file-name="Password.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/youtubers/Password.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="133">
               <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-              <folding>
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -122,6 +91,7 @@
         <option value="$PROJECT_DIR$/src/com/youtubers/UserPassword.java" />
         <option value="$PROJECT_DIR$/src/com/youtubers/UserPasswords.java" />
         <option value="$PROJECT_DIR$/passwords.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/youtubers/Requests.java" />
       </list>
     </option>
@@ -140,28 +110,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="youtubers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youtubers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youtubers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youtubers" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youtubers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youtubers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youtubers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youtubers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="youtubers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -172,8 +125,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,6 +135,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -284,6 +239,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/youtubers/Requests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="100" column="68" selection-start-line="100" selection-start-column="68" selection-end-line="100" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/youtubers/UserPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/youtubers/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/youtubers/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/youtubers/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/youtubers/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -297,7 +304,6 @@
           <caret line="80" column="63" lean-forward="true" selection-start-line="80" selection-start-column="63" selection-end-line="80" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2008#2018#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -322,7 +328,6 @@
           <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2008#2018#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -347,14 +352,13 @@
           <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2008#2018#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/youtubers/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="114">
           <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
@@ -362,14 +366,8 @@
     <entry file="file://$PROJECT_DIR$/login.4" />
     <entry file="file://$PROJECT_DIR$/src/com/youtubers/Password.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="133">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -384,37 +382,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding>
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/passwords.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/youtubers/Requests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="100" column="68" selection-start-line="100" selection-start-column="68" selection-end-line="100" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2008#2018#0" expanded="true" />
-          </folding>
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/result.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/youtubers/Requests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="475">
+          <caret line="34" column="85" selection-start-line="34" selection-start-column="85" selection-end-line="34" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
